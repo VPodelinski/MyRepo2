@@ -5,6 +5,12 @@ import java.util.Random;
  */
 public class BubbleSort {
 
+
+
+/*
+*dfggdggdgdg
+*/
+
     public static void main(String[] args) {
         int[] massive = {8,15,56,7,2,3,99,45,12,6};
 
