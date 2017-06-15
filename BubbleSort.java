@@ -31,6 +31,10 @@ public class BubbleSort {
                 }
             }
         }
+
+/*
+*2 dfggdggdgdg
+*/
         System.out.println();
         for (int i = 0; i < massive.length; i++) {
 
